@@ -1,5 +1,5 @@
 
-<p align='center'><a href= "https://www.gmjacobsdev.com"><img src="./icons/github_banner2.gif" alt="Avatar of Gabrielle Jacobs" /></a></p>
+<p align='center'><a href= "https://www.gmjacobsdev.com"><img src="./icons/github_banner.gif" alt="Avatar of Gabrielle Jacobs" /></a></p>
 
 ## 👋🏾&nbsp;Hi! I'm a frontend developer with a multimedia background
 
