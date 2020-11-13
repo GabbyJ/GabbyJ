@@ -7,8 +7,8 @@
   - 👩🏾‍💻&nbsp;I started learning to code in 2018.
   - 🎓&nbsp;I'm studying Fullstack Web Development through self-paced programs.
   - 🎯&nbsp;I'm currently learning new languages while advancing my knowledge in "old" ones.
-  - 🚀&nbsp;I've joined [Collab Lab](https://the-collab-lab.codes) to get real-world teamwork and Agile experience by building a collaborative React application with three other participants: ![Cohort status](https://img.shields.io/badge/Cohort-Oct--Dec%202020-blue)
-  - 🚀&nbsp;I'm participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com) to become more active in open-source contributions: ![Hacktoberfest status](https://img.shields.io/badge/hacktoberfest-Oct.%201--%20Oct.%2031-orange)
+  - 🚀&nbsp;I've joined [Collab Lab](https://the-collab-lab.codes) to get real-world teamwork and Agile experience by building a collaborative React application with three other early-career developers: ![Cohort status](https://img.shields.io/badge/Cohort-Oct--Dec%202020-blue)
+  - 🚀&nbsp;I participated in [Hacktoberfest](https://hacktoberfest.digitalocean.com) to become more active in open-source contributions: ![Hacktoberfest status](https://img.shields.io/badge/hacktoberfest-Oct.%201--%20Oct.%2031-orange)
   - 💼&nbsp;Currently a Digital Content and Wordpress Lead who is looking for a frontend web developer position that will allow me to grow and contribute: ![Available for hire?](https://img.shields.io/badge/hireable-yes-brightgreen)
 
 <details>
@@ -36,6 +36,7 @@
 <div>
   <img height="40" src="./icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code logo"/>
   <img height="40" src="./icons/pycharm.png" title="PyCharm" alt="PyCharm logo"/>
+  <img height="40" src="./icons/firebase.png" title="Firebase" alt="Firebase logo"/>
   <img height="40" src="./icons/console.png" title="Terminal" alt="console"/>
   <img height="40" src="./icons/git.png" title="Git" alt="Git logo"/>
   <img height="40" src="./icons/github.png" title="Github" alt="Github logo"/>
